@@ -1,10 +1,10 @@
 # online-grocery-shop
 
 
-(https://youtu.be/6Honf5MMl54)
+[![Demo Video]()](https://youtu.be/6Honf5MMl54)
 
-Features
-Management-Side
+## Features
+   ### Management-Side
 
     Secure Login and Logout
     Dashboard
@@ -37,7 +37,7 @@ Management-Side
     Manage Account Details/Credentials
     Manage System Information
 
-Vendor-Side
+### Vendor-Side
 
     Secure Login and Registration
     Dashboard
@@ -63,7 +63,7 @@ Vendor-Side
     Manage Account Details/Credentials
     Logout
 
-Client-Side
+### Client-Side
 
     Secure Login and Registration
     Read 'Welcome' Content
